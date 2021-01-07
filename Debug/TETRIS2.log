@@ -1,0 +1,25 @@
+﻿  Source.cpp
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(15,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(54,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(72,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(73,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(73,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(116,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(192,33): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(211,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(211,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(222,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Yaniv Suriyano\source\repos\TETRIS2\TETRIS2\Source.cpp(222,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'smfl-graphics-d.lib'
